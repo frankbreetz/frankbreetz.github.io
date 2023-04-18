@@ -92,7 +92,7 @@ content:
       - layout: right
         title: SigmaTEK
         sub_title: Project Manager/Software Developer
-        caption: AJan 2014 - Aug 2018
+        caption: Jan 2014 - Aug 2018
         link: https://www.sigmanest.com/
         quote: >
           SigmaTEK offers a variety of software products and business solutions developed by our expert team of engineers. From quoting and nesting to total shop floor automation, SigmaTEK offers a complete solution for every aspect of the manufacturing process.
@@ -107,7 +107,7 @@ content:
         title: Georgia Institute of Technology
         sub_title: Master of Science in Computer Science
         caption: 2018-2020
-      - layout: top-left
+      - layout: top-right
         title: Northern Kentucky University
         sub_title: Bachelor of Science in Physics (Manga Cum Laude)
         caption: 2010-2013
