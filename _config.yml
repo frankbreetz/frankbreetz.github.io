@@ -103,11 +103,11 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: center
         title: Georgia Institute of Technology
         sub_title: Master of Science in Computer Science
         caption: 2018-2020
-      - layout: top-right
+      - layout: center
         title: Northern Kentucky University
         sub_title: Bachelor of Science in Physics (Manga Cum Laude)
         caption: 2010-2013
