@@ -41,7 +41,7 @@ linkedin_username: frank-breetz
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced data engineer with a strong background in designing and implementing data pipelines,performing complex transformations, and managing large-scale projects. Proficient in a variety of programming languages and data tools, including Python, SQL, Apache Airflow, Databricks, and AWS.
+  Experienced data engineer with a strong background in designing and implementing data pipelines,performing complex transformations, and managing large-scale projects. Proficient in a variety of programming languages and data tools, including Python, SQL, Apache Airflow, Apache NiFi, and AWS.
 
 content:
   # - title: Projects # Title for the section
@@ -75,9 +75,10 @@ content:
         quote: >
            Astronomer is the commercial developer of Apache Airflow, a community-driven open-source tool that's leading the market in data orchestration. We're a globally-distributed and rapidly growing venture-backed team of learners, innovators and collaborators.
         description: | # this will include new lines to allow paragraphs
-          - Performed in-depth data analysis, quickly identifying and resolving complex issues using Apache Airflow, Python, SQL, and a variety of other tools.
-          - Conducted architecture reviews on multiple customer environments.
-          - Developed custom Flask-based migration tools that reduced migration time by over 70%, while improving data quality by over 50%. 
+           - Performed in-depth data analysis, quickly identifying and resolving complex issues using Apache Airflow, Python, SQL, Docker, Kubernetes, and a variety of other tools.
+           - Conducted architecture reviews on multiple customer cloud environments on AWS, GCP, and Azure. 
+           - Developed custom Flask-based migration tools that reduced migration time by over 70%, while improving data quality by over 50%.
+
       - layout: right
         title: Linquest
         sub_title: Data Architect
@@ -115,9 +116,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming: Python, SQL
-      - ETL/ELT: Airflow, Databricks, Kafka
+      - ETL/ELT: Airflow, Kafka
       - Cloud Platforms: AWS, GCP
-      - Big Data: Hadoop,Spark
+      - Big Data: Hadoop, NiFi
       - Data Warehousing
       - Data Governance
       - Data Modeling: Erwin
