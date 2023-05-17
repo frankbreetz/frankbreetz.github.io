@@ -88,8 +88,8 @@ content:
           LinQuest is a national security space leader that enables defense and intelligence missions through advanced digital solutions and the development, integration, and operation of mission critical systems.
         description: | # this will include new lines to allow paragraphs
           - Designed and developed scalable data models for PostgreSQL using Erwin.
-          - Led the end-to-end design and implementation of data pipelines from scratch, integrating Python,PostgreSQL, and MongoDB.
-          - Orchestrated complex data workflows using Apache Airflow on AWS and HDFS clusters, ensuring timely delivery of high-quality datasets to downstream systems.
+          - Led the end-to-end design and implementation of data pipelines from scratch, integrating Python, PostgreSQL, and MongoDB.
+          - Orchestrated complex data workflows using Apache Airflow and Apache NiFi, ensuring timely delivery of high-quality datasets to downstream systems.
       - layout: right
         title: SigmaTEK
         sub_title: Project Manager/Software Developer
